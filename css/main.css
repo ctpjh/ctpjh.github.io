@@ -17,9 +17,24 @@ body {
   color: #006e54;
 }
 
+/* 文章 */
 .post-header h1 {
-	font-size: 1.6em;
+	font-size: 32px;
 }
 .post-header p {
 	color: #99cc99;
+}
+
+/* 文章列表 */
+.list-group a {
+	color: #006e54;
+	font-size: 20px;
+}
+.list-group a:link {
+	color: #669900;
+	font-size: 20px;
+}
+.list-group a:hover {
+	text-decoration: none;
+	color: #ccff66;
 }
