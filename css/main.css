@@ -16,3 +16,10 @@ body {
   background-color: #fdfdfd;
   color: #006e54;
 }
+
+.post-header h1 {
+	font-size: 1.6em;
+}
+.post-header p {
+	color: #99cc99;
+}
