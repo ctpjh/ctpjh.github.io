@@ -19,7 +19,7 @@ body {
 
 /* 文章 */
 .post-header h1 {
-	font-size: 32px;
+	font-size: 28px;
 }
 .post-header p {
 	color: #99cc99;
@@ -36,5 +36,4 @@ body {
 }
 .list-group a:hover {
 	text-decoration: none;
-	color: #ccff66;
 }
